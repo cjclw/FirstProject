@@ -1,5 +1,5 @@
 # FirstProject
 only repository
-public stataic void main(string[] args){
+public static void main(string[] args){
   system.out.println("sd");
 }
